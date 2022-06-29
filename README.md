@@ -1,6 +1,11 @@
-# musicapp
+# Music App
 
 Flutter task from credicxo
+
+![image](https://user-images.githubusercontent.com/66006470/176505822-51619cf2-3156-4369-a3e2-84ccfcbf29b8.png)
+
+![image](https://user-images.githubusercontent.com/66006470/176505953-c1255047-0f31-46fe-84f1-607e7287aa99.png)
+
 
 ## Getting Started
 
